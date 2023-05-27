@@ -24,7 +24,7 @@ const hallSchema = new Schema(
                 type: Boolean,
                 default: false
             },
-            aoundSystem: {
+            soundSystem: {
                 type: Boolean,
                 default: false
             },
